@@ -1,4 +1,1 @@
-```python
-pip install "fastapi[all]" 
-```
-
+## Ths is an attempt to provide examples for this lirbary since the documentation sucks. 
